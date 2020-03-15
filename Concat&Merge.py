@@ -146,6 +146,13 @@ pd.merge(df_a,df_c,on="subject_id")
 #merging with outer join
 pd.merge(df_a,df_c,on="subject_id",how="outer")
 
+
+# In[ ]:
+
+
+
+
+
 # In[ ]:
 
 
